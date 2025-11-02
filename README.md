@@ -55,7 +55,7 @@ Example Message Sent to Queue:
 
 {
   "OrderId": "1b7c2a55-d12a-4fbb-b739-f1b2d11a8d5a",
-  "CustomerEmail": "masud@wearistyle.com",
+  "CustomerEmail": "masud@abc.com",
   "TotalAmount": 159.99,
   "OrderDate": "2025-11-02T12:10:05Z"
 }
