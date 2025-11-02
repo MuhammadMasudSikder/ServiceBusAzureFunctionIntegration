@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderEmailHandler", "OrderEmailHandler\OrderEmailHandler.csproj", "{52DC1EFD-B564-B7B6-399C-A2F745B6D274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusTestApi", "ServiceBusTestApi\ServiceBusTestApi.csproj", "{CC22AF2E-21BA-B6E1-1471-4FD55BA3EEB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DC1EFD-B564-B7B6-399C-A2F745B6D274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DC1EFD-B564-B7B6-399C-A2F745B6D274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DC1EFD-B564-B7B6-399C-A2F745B6D274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DC1EFD-B564-B7B6-399C-A2F745B6D274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC22AF2E-21BA-B6E1-1471-4FD55BA3EEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC22AF2E-21BA-B6E1-1471-4FD55BA3EEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC22AF2E-21BA-B6E1-1471-4FD55BA3EEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC22AF2E-21BA-B6E1-1471-4FD55BA3EEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CB752F-9959-4DA6-A077-CB27932E54CB}
+	EndGlobalSection
+EndGlobal
